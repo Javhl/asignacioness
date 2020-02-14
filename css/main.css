@@ -35,7 +35,7 @@ header, footer, footer a {
 }
 
 header img {
-    width: 150px;
+    width: 100px;
     height: auto;
     float: right;
 }
@@ -43,4 +43,10 @@ header img {
 footer {
     font-size: 0.75rem;
 }
-
+.style1right {
+    margin: 0 auto; 
+    border: 1px solid #bbb; 
+    padding: 5px; 
+    background-color: #eee; 
+    line-height: 1.5em;
+}

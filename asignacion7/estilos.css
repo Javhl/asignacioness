@@ -178,7 +178,7 @@ html {
     display: inline-block;
     font-family:  Arial;
     font-size: 0.875em;
-    
+    font-weight: bold;
     outline: none;
     padding: 20px 35px;
     text-transform: uppercase;
